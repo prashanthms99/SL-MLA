@@ -4,5 +4,5 @@ Classification problems can be solved by following Machine Learning Algorithms.
 * Random forest
 * Support Vector Machines
 
-**Evaluation of Models:**
+**Evaluation of Models:** <br>
 We use **confusion matix** to evaluate the models.
