@@ -1,5 +1,5 @@
-## Linear Problems
+## Regression Problems
 
-Linear problems can be solved by following Machine Learning Algorithm.
+Regression problems can be solved by following Machine Learning Algorithm.
 
 * Linear Regression
